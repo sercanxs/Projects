@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.mid-1{
+    background-image: url(../favicons/spacex-3.jpg);
+    background-size: cover;
+    height: 850px;
+    background-position: center center;
+}
+.sizing100{
+    width: 100px;
+}
