@@ -30,6 +30,7 @@
     flex-basis: 50%;
     height: 150px;
     overflow: hidden;
+    font-size: 25px;
 }
 .logo{
     position: absolute;
@@ -39,14 +40,12 @@
 }
 .top-1-right-1{
     display: inline-block;
-    font-size: 25px;
     margin-top: 65px;
     text-decoration: none;
     color: black;
 }
 .top-1-right-2{
     display: inline-block;
-    font-size: 25px;
     margin-left: 80px;
     margin-top: 65px;
     text-decoration: none;
